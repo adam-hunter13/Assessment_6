@@ -1,0 +1,15 @@
+*** PART 1 ***
+Here is the link to my trello board
+https://trello.com/invite/b/A7Jb9s10/4c2239f3eec97e85e163fa46b9a60fe4/assessment-6-part-1
+
+
+*** PART 3 ***
+Link to my deployment sketch on Figma
+https://www.figma.com/file/RHojj5ec7TmUwaIWVpyj0Z/Deployment-Structure?node-id=0%3A1
+
+*** EXTRA CREDIT CSS ***
+Didn't do much here just moved it to the center of the screen and changed the background color
+
+*** EXTRA CREDIT DEPLOYMENT ***
+Link to Heroku deployment
+https://assessment-6.herokuapp.com/
