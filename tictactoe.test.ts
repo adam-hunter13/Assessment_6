@@ -25,6 +25,7 @@ test('I place "X" in cell 0', async () => {
     let button = await (await driver).findElement(By.id('cell-0'));
     await button.click();
     
+    expect(await button.getText()).toContain('X')
     await driver.sleep(2000);
 
 });
@@ -34,6 +35,7 @@ test('I place "X" in cell 6', async () => {
     let button = await (await driver).findElement(By.id('cell-6'));
     await button.click();
     
+    expect(await button.getText()).toContain('X')
     await driver.sleep(2000)
 
 });
@@ -43,6 +45,7 @@ test('I place "X" in cell 4', async () => {
     let button = await (await driver).findElement(By.id('cell-4'));
     await button.click();
     
+    expect(await button.getText()).toContain('X')
     await driver.sleep(2000)
 
 });
@@ -52,6 +55,7 @@ test('I place "X" in cell 8', async () => {
     let button = await (await driver).findElement(By.id('cell-8'));
     await button.click();
     
+    expect(await button.getText()).toContain('X')
     await driver.sleep(2000)
     
 });
